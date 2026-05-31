@@ -73,7 +73,6 @@
 | A Trojan always looks like a game or free software | Trojans can be embedded in documents (Word macros), PDF files, image files, browser extensions, software updates, and even hardware firmware. |
 
 ---
-
 ## 🧱 Foundation Knowledge
 
 <details>
